@@ -1,1 +1,1 @@
-These are some codes which I learn throughout my second semmester.
+Here is some code in C language that I learned during my 2nd semester.
